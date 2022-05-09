@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HotelTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-09T08:24:59" hostname="DESKTOP-MG056D1" time="0.002">
+  <properties/>
+  <testcase name="ShouldGetTheCorrectRatingForRegularWeekday" classname="HotelTest" time="0.0"/>
+  <testcase name="ShouldGetTheCorrectRatingForRegularWeekend" classname="HotelTest" time="0.001"/>
+  <testcase name="shouldGetCorrectValueForReservation" classname="HotelTest" time="0.0"/>
+  <testcase name="ShouldGetTheCorrectRatingForRewardsWeekday" classname="HotelTest" time="0.001"/>
+  <testcase name="ShouldGetTheCorrectRatingForRewardsWeekend" classname="HotelTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

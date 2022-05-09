@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UtilTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-09T08:24:59" hostname="DESKTOP-MG056D1" time="0.003">
+  <properties/>
+  <testcase name="shouldThrowExceptionWithInvalidClientTypeInput" classname="UtilTest" time="0.001"/>
+  <testcase name="shouldParseRewardsClientCaseInsensitive" classname="UtilTest" time="0.0"/>
+  <testcase name="shouldGetListOfStringsInTheCorrectFormatFromInput" classname="UtilTest" time="0.0"/>
+  <testcase name="shouldReturnFalseIfNotWeekend" classname="UtilTest" time="0.001"/>
+  <testcase name="shouldReturnTrueIfWeekend" classname="UtilTest" time="0.0"/>
+  <testcase name="shouldParseDateFromStringInTheCorrectFormat" classname="UtilTest" time="0.0"/>
+  <testcase name="shouldThrowExceptionWithInvalidDateInput" classname="UtilTest" time="0.0"/>
+  <testcase name="shouldParseRegularClientCaseInsensitive" classname="UtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
